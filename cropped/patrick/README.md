@@ -1,1 +1,0 @@
-patrick's cropped pics
