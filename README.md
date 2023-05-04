@@ -3,7 +3,7 @@ Project for Neural Networks - CSE 40868
 
 //Part 4//
 
-1. The test dataset we obtained for this part was by collecting face images from ourselves and our friends from images in our camera rolls. Therefore, the images were more varied in facial expression, environment and lighting than the training and validation subsets which were more controlled facial expression, environment and lighting. Also, this meant that the other data was more similar to both the Patrick and Grace datasets in the test, because in the training and validation subsets, the other data is from the FRGC dataset which uses a higher quality camera, more controlled pose and distinct lighting. 
+1. The test dataset we obtained for this part was by collecting face images from ourselves and our friends from images in our camera rolls. Therefore, the images were more varied in facial expression, environment and lighting than the training and validation subsets which were more controlled facial expression, environment and lighting. Also, this meant that the other data was more similar to both the Patrick and Grace datasets in the test, because in the training and validation subsets, the other data is from the FRGC dataset which uses a higher quality camera, more controlled pose and distinct lighting. The FRGC dataset also includes images of older people, whereas the new data collected was limited to ND undergraduates. 
 
 For example, here is data from the training and validation:
 //insert images
