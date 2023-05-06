@@ -36,6 +36,12 @@ Grace:
 - Worked with Patrick on the presentation (specifically the architecture section) and presented
 
 Patrick:
+- Collected ~100 images of Patrick, ~50 images of 'other' from camera roll for new test dataset
+- In terms of architecture tweaks, tested effect of using different activation functions like LeakyReLU, tested using Transfer Learning instead.
+- Ran new test dataset experiment
+- Combined different tweaks from both Grace and my experiments
+- Worked with Grace on the writeup
+- Worked with Grace on the presentation (specifically the architecture section) and presented
 
 5. Presentation
 // add link to recording
