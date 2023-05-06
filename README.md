@@ -8,7 +8,8 @@ Project for Neural Networks - CSE 40868
 For example, here is some data from the training and validation:
 
 [<img src="https://github.com/hsiaopat/facial-recognition/blob/main/imgForREADME/pattySerious.jpeg" title="patty" height="300">](https://github.com/hsiaopat)&nbsp;
-
+[<img src="https://github.com/hsiaopat/facial-recognition/blob/main/imgForREADME/graceSerious.jpeg" title="grace" height="300">](https://github.com/hsiaopat)&nbsp;
+[<img src="https://github.com/hsiaopat/facial-recognition/blob/main/imgForREADME/boyer.png" title="boyer" height="300">](https://github.com/hsiaopat)&nbsp;
 
 Here is data from the test:
 
