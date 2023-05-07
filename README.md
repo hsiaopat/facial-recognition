@@ -33,7 +33,7 @@ Grace:
 - In terms of architecture tweaks, tested effect of adding dropout before FC1, tested effects of changing network size (dropped to only 4 convolutional layers, reduced number of features)
 - Ran new test dataset experiment
 - Worked with Patrick on the writeup
-- Worked with Patrick on the presentation (specifically the architecture section) and presented
+- Worked with Patrick on the presentation (specifically the architecture and obstacles sections) and presented
 
 Patrick:
 - Collected ~100 images of Patrick, ~50 images of 'other' from camera roll for new test dataset
@@ -41,7 +41,7 @@ Patrick:
 - Ran new test dataset experiment
 - Combined different tweaks from both Grace and my experiments
 - Worked with Grace on the writeup
-- Worked with Grace on the presentation (specifically the architecture section) and presented
+- Worked with Grace on the presentation (specifically the data and use case sections) and presented
 
 5. Presentation
 // add link to recording
