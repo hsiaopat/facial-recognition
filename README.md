@@ -3,6 +3,11 @@ Project for Neural Networks - CSE 40868
 
 //Part 4//
 
+Instructions to run: 
+You can choose to run any of the networks in the Tweaks/Original Networks Folder or you can run the Leaky + Dropout Network that's in the root directory. You can follow the directions in the CoLab file. You can also compare to the Transfer Learning Network in the Tweaks/Original Network Directory. 
+
+Note: In order to run, you have to move the cropped directory into your own google drive and modify the path indicated in the colab file to the directory you imported. We moved the new_other pics in that directory. Analysis on that is explained below.
+
 1. The test dataset we obtained for this part was by collecting face images from ourselves and our friends from images in our camera rolls. Therefore, the images were more varied in facial expression, environment and lighting than the training and validation subsets which were more controlled facial expression, environment and lighting. Also, this meant that the other data was more similar to both the Patrick and Grace datasets in the test, because in the training and validation subsets, the other data is from the FRGC dataset which uses a higher quality camera, more controlled pose and distinct lighting. The FRGC dataset also includes images of older people, whereas the new data collected was limited to ND undergraduates. 
 
 For example, here is some data from the training and validation:
